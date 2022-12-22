@@ -40,10 +40,7 @@
 
 </br>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Jesustropro&&style=flat-square"  />
-</div>  
-</br>
+
 
 <h2>Conecta conmigo</h2>
 
