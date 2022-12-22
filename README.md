@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
 </div>  
 
- <h1 align="center">Mi nombre es Jesus y soy desarrollador web Front End 🚀</h1>  
+ ##<div align="center">Mi nombre es Jesus y soy desarrollador web Front End 🚀</div>  
   </br>
 
 - 🔭 Tengo 19 años y vivo en Argentina
@@ -57,5 +57,5 @@
 </div>  
 </br>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Jesustropro&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Jesustropro&&style=flat-square"  />
 </div>  
