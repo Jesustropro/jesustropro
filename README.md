@@ -1,4 +1,19 @@
-### Hi there 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+### <div align="center">Mi nombre es Jesus y soy desarrollador web Front End 🚀</div>  
+  
+
+- 🔭 Tengo 19 años y vivo en Argentina
+  
+
+- 🌱 Me encanta React  
+  
+
+- ⚡ Actualmente me estoy capacitando en Next.js
+
+
 <img src="https://streak-stats.demolab.com/?user=Jesustropro&theme=monokai-metallian&hide_border=true"/>
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jesustropro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 
@@ -9,17 +24,18 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Jesustropro&&style=flat-square" align="center" />
 </div>  
-<!--
-**Jesustropro/jesustropro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Jesustropro" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/jesus-daniel-mora-trovat" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/djesusmt/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
