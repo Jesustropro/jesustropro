@@ -5,6 +5,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesustropro&show_icons=true&theme=react&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ls2iphkv5tnlb7nz6ftuefkkky&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
 <!--
 **Jesustropro/jesustropro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
