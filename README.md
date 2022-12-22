@@ -18,11 +18,11 @@
  <h2>📊 Estadisticas y actividad de GitHub </h2>
 </div>
 
-<h3>🔥 Estadisticas de racha </h3>
+<h3>🔥 Estadísticas de racha </h3>
 
 <img src="https://streak-stats.demolab.com/?user=Jesustropro&theme=monokai-metallian&hide_border=true"/>
 
-  <h3>💻 Estadisticas de mi perfil</h3>
+  <h3>💻 Estadísticas de mi perfil</h3>
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jesustropro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 
   <h3>🛠️ Mis lenguajes mas usados </h3>
