@@ -13,7 +13,7 @@
 
 - ⚡ Actualmente me estoy capacitando en Next.js
 
-<details>
+
 <div align="center">
   <summary><h2>📊 Estadisticas y actividad de GitHub </h2></summary>
 </div>
@@ -29,7 +29,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesustropro&show_icons=true&theme=react&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
   </br>
-</details>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ls2iphkv5tnlb7nz6ftuefkkky&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 <div align="center">
