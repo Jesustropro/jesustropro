@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://streak-stats.demolab.com/?user=Jesustropro&theme=monokai-metallian&hide_border=true"/>
 <!--
 **Jesustropro/jesustropro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
