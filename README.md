@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
 </div>  
 
 ### <div align="center">Mi nombre es Jesus y soy desarrollador web Front End 🚀</div>  
@@ -12,10 +12,11 @@
   
 
 - ⚡ Actualmente me estoy capacitando en Next.js
-
-  <summary><h2>📊 Estadisticas y actividad de GitHub </h2></summary>
-
-  <h3>🔥 Estadisticas de racha </h3>
+<div align="center">
+  <h2>📊 Estadisticas y actividad de GitHub </h2>
+</div>
+<br/>
+<h3>🔥 Estadisticas de racha </h3>
 
 <img src="https://streak-stats.demolab.com/?user=Jesustropro&theme=monokai-metallian&hide_border=true"/>
 
