@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
 </div>  
 
-### <div align="center">Mi nombre es Jesus y soy desarrollador web Front End 🚀</div>  
+ <h1 align="center">Mi nombre es Jesus y soy desarrollador web Front End 🚀</h1>  
   </br>
 
 - 🔭 Tengo 19 años y vivo en Argentina
@@ -31,29 +31,25 @@
 
 <h2>🎧 Me encanta la música </h3>
 </br>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ls2iphkv5tnlb7nz6ftuefkkky&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-
-
-
-</br>
-
-</br>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Jesustropro&&style=flat-square" align="center" />
-</div>  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ls2iphkv5tnlb7nz6ftuefkkky&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+</div>
+
+
+</br>
+
 
 
 ## Conecta conmigo 
 <div align="center">
-<a href="https://github.com/Jesustropro" target="_blank">
+<a href="https://github.com/Jesustropro" >
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/jesus-daniel-mora-trovat" target="_blank">
+<a href="https://www.linkedin.com/in/jesus-daniel-mora-trovat" >
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/djesusmt/" target="_blank">
+<a href="https://www.instagram.com/djesusmt/" >
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
