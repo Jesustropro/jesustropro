@@ -5,13 +5,13 @@
   <h2 align="center">Mi nombre es Jesus y soy desarrollador web Front End 🚀</h2>  
   </br>
 
-- 🔭 <h4>Tengo 19 años y vivo en Argentina</h4>
+- 🔭 Tengo 19 años y vivo en Argentina
   
 
-- 🌱 <h4>Me encanta React  </h4></h4>
+- 🌱 Me encanta React 
   
 
-- ⚡ <h4>Actualmente me estoy capacitando en Next.js</h4>
+- ⚡ Actualmente me estoy capacitando en Next.js
 <br/>
 
 <div align="center">
