@@ -31,8 +31,12 @@
  <div align="center">
 <h2>🎧 Me encanta la música </h3>
 </br>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ls2iphkv5tnlb7nz6ftuefkkky&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
+
+</br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Jesustropro&&style=flat-square" align="center" />
 </div>  
