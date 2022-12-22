@@ -44,7 +44,9 @@
 <img src="https://komarev.com/ghpvc/?username=Jesustropro&&style=flat-square"  />
 </div>  
 </br>
-## Conecta conmigo 
+
+<h2>Conecta conmigo</h2>
+
 <div align="center">
 <a href="https://github.com/Jesustropro" >
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
