@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" />
 </div>  
 
 ### <div align="center">Mi nombre es Jesus y soy desarrollador web Front End 🚀</div>  
@@ -13,9 +13,16 @@
 
 - ⚡ Actualmente me estoy capacitando en Next.js
 
+  <summary><h2>📊 Estadisticas y actividad de GitHub </h2></summary>
+
+  <h3>🔥 Estadisticas de racha </h3>
 
 <img src="https://streak-stats.demolab.com/?user=Jesustropro&theme=monokai-metallian&hide_border=true"/>
+
+  <h3>💻 Estadisticas de mi perfil</h3>
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jesustropro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+
+  <h3>🛠️ Mis lenguajes mas usados </h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesustropro&show_icons=true&theme=react&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
 
@@ -26,7 +33,7 @@
 </div>  
 
 
-## Connect with me  
+## Conecta conmigo 
 <div align="center">
 <a href="https://github.com/Jesustropro" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
