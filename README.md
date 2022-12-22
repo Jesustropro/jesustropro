@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
 </div>  
 
- ##<div align="center">Mi nombre es Jesus y soy desarrollador web Front End 🚀</div>  
+ ## <div align="center">Mi nombre es Jesus y soy desarrollador web Front End 🚀</div>  
   </br>
 
 - 🔭 Tengo 19 años y vivo en Argentina
