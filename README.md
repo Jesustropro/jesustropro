@@ -42,7 +42,7 @@
 
 
 
-<h2>Conecta conmigo</h2>
+<h2>🏷️ Conecta conmigo</h2>
 
 <div align="center">
 <a href="https://github.com/Jesustropro" >
